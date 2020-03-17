@@ -1,0 +1,5 @@
+c:\users\dell_op\documents\visual studio 2010\Projects\EmailServices\Elektra.EmailServices\bin\Elektra.EmailServices.dll
+c:\users\dell_op\documents\visual studio 2010\Projects\EmailServices\Elektra.EmailServices\bin\Elektra.EmailServices.pdb
+c:\users\dell_op\documents\visual studio 2010\Projects\EmailServices\Elektra.EmailServices\obj\Debug\Elektra.EmailServices.dll
+c:\users\dell_op\documents\visual studio 2010\Projects\EmailServices\Elektra.EmailServices\obj\Debug\Elektra.EmailServices.pdb
+C:\Users\Dell_OP\Documents\Visual Studio 2010\Projects\EmailServices\Elektra.EmailServices\obj\Debug\Elektra.EmailServices.csprojResolveAssemblyReference.cache

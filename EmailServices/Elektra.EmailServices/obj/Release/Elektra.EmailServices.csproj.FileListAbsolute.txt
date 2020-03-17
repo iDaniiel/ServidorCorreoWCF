@@ -1,0 +1,4 @@
+C:\Users\Dell_OP\Documents\Visual Studio 2010\Projects\EmailServices\Elektra.EmailServices\bin\Elektra.EmailServices.dll
+C:\Users\Dell_OP\Documents\Visual Studio 2010\Projects\EmailServices\Elektra.EmailServices\bin\Elektra.EmailServices.pdb
+C:\Users\Dell_OP\Documents\Visual Studio 2010\Projects\EmailServices\Elektra.EmailServices\obj\Release\Elektra.EmailServices.dll
+C:\Users\Dell_OP\Documents\Visual Studio 2010\Projects\EmailServices\Elektra.EmailServices\obj\Release\Elektra.EmailServices.pdb
