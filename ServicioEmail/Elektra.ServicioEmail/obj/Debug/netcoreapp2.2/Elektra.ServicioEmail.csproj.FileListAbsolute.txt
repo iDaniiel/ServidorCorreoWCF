@@ -1,0 +1,13 @@
+C:\Users\Dell_OP\source\repos\ServicioEmail\Elektra.ServicioEmail\bin\Debug\netcoreapp2.2\Elektra.ServicioEmail.deps.json
+C:\Users\Dell_OP\source\repos\ServicioEmail\Elektra.ServicioEmail\bin\Debug\netcoreapp2.2\Elektra.ServicioEmail.runtimeconfig.json
+C:\Users\Dell_OP\source\repos\ServicioEmail\Elektra.ServicioEmail\bin\Debug\netcoreapp2.2\Elektra.ServicioEmail.runtimeconfig.dev.json
+C:\Users\Dell_OP\source\repos\ServicioEmail\Elektra.ServicioEmail\bin\Debug\netcoreapp2.2\Elektra.ServicioEmail.dll
+C:\Users\Dell_OP\source\repos\ServicioEmail\Elektra.ServicioEmail\bin\Debug\netcoreapp2.2\Elektra.ServicioEmail.pdb
+C:\Users\Dell_OP\source\repos\ServicioEmail\Elektra.ServicioEmail\obj\Debug\netcoreapp2.2\Elektra.ServicioEmail.csproj.CoreCompileInputs.cache
+C:\Users\Dell_OP\source\repos\ServicioEmail\Elektra.ServicioEmail\obj\Debug\netcoreapp2.2\Elektra.ServicioEmail.RazorAssemblyInfo.cache
+C:\Users\Dell_OP\source\repos\ServicioEmail\Elektra.ServicioEmail\obj\Debug\netcoreapp2.2\Elektra.ServicioEmail.RazorAssemblyInfo.cs
+C:\Users\Dell_OP\source\repos\ServicioEmail\Elektra.ServicioEmail\obj\Debug\netcoreapp2.2\Elektra.ServicioEmail.AssemblyInfoInputs.cache
+C:\Users\Dell_OP\source\repos\ServicioEmail\Elektra.ServicioEmail\obj\Debug\netcoreapp2.2\Elektra.ServicioEmail.AssemblyInfo.cs
+C:\Users\Dell_OP\source\repos\ServicioEmail\Elektra.ServicioEmail\obj\Debug\netcoreapp2.2\Elektra.ServicioEmail.RazorTargetAssemblyInfo.cache
+C:\Users\Dell_OP\source\repos\ServicioEmail\Elektra.ServicioEmail\obj\Debug\netcoreapp2.2\Elektra.ServicioEmail.dll
+C:\Users\Dell_OP\source\repos\ServicioEmail\Elektra.ServicioEmail\obj\Debug\netcoreapp2.2\Elektra.ServicioEmail.pdb
